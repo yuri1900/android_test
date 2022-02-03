@@ -12,7 +12,7 @@
 
 ```kotlin
 fun foo() = "hello kotlin"
-hun bar() {
-  print{foo()}
+fun bar() {
+  print(foo())
   }
   ```
