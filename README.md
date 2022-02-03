@@ -10,9 +10,9 @@
 
 `int x =0;`
 
-'''kotlin
+```kotlin
 fun foo() = "hello kotlin"
 hun bar() {
   print{foo()}
   }
-  '''
+  ```
